@@ -1,0 +1,5 @@
+TRADEFAIR;DARMSTRADE;Trade fair in Darmstadt;24.22;22.22
+TOURISTIC;EIFELTOWER;The tallest tower;10.45;20.22
+UNIVERSITY;HDA;Best Technical University;11.12;22.78
+RESTAURANT;LREPNB;Italian restaurant;55.23;65.34
+RESTAURANT;MOTEL;Business hotel;55.89;65.11

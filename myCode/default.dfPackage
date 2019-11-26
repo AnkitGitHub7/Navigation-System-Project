@@ -1,0 +1,134 @@
+package id67vpmjawr8vszjawr8wrp;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#CWpDatabase:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:cpp#Class#CPersistanceComponent:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}
+/**
+@__ref <oiref:cpp#Class#CWaypoint:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}
+/**
+@__ref <oiref:cpp#Class#CPersistanceStorage:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}
+/**
+@__ref <oiref:cpp#Class#err_enum:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}
+/**
+@__ref <oiref:cpp#Class#CRoute:oiref><oihard>
+@__modelType reference 
+*/
+class reference5 {
+}
+/**
+@__ref <oiref:cpp#Class#CPOI:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}
+/**
+@__ref <oiref:cpp#Class#CPoiDatabase:oiref><oihard>
+@__modelType reference 
+*/
+class reference7 {
+}
+/**
+@__ref <oiref:cpp#Class#t_poi:oiref><oihard>
+@__modelType reference 
+*/
+class reference8 {
+}
+/**
+@__ref <oiref:cpp#Class#CNavigationSystem:oiref><oihard>
+@__modelType reference 
+*/
+class reference9 {
+}
+/**
+@__ref <oiref:cpp#Class#CGPSSensor:oiref><oihard>
+@__modelType reference 
+*/
+class reference10 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAABc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAWAuRZQAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAD0RFU0tUT1AtOTBUQTlVQ3QA
+CTxkZWZhdWx0PnQABUFOS0lUeHg= 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:Autodependency<oiref:cpp#Class#CPersistanceStorage:oiref><Autodependency><oiref:cpp#Class#CPoiDatabase:oiref>=215,581,259,666,470,666,565,522:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CNavigationSystem#componentTesting:oiref>=379,646,379,774:oigroup>
+<oigroup:<oiref:cpp#Class#CPersistanceStorage:oiref>=50,408,165,206,1:oigroup>
+<oigroup:<oiref:cpp#Class#CWpDatabase:oiref>=185,10,200,142,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CRoute#m_pWaypointDatabase:oiref>=389,61,28,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CNavigationSystem#m_GPSSensor:oiref>=422,646,597,774:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPoiDatabase:oiref><Autodependency><oiref:cpp#Class#CPOI:oiref>=715,550,715,654,857,774:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPersistanceStorage:oiref><Autodependency><oiref:cpp#Class#CWpDatabase:oiref>=132,408,284,152:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CRoute#m_pPoiDatabase:oiref>=661,388,28,16,0:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPersistanceComponent:oiref><Autodependency><oiref:cpp#Class#CWaypoint:oiref>=443,774,831,694:oigroup>
+<oigroup:<oiref:cpp#Class#err_enum:oiref>=338,1051,83,123,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CNavigationSystem#m_pWaypointDatabase:oiref>=317,408,317,152:oigroup>
+<oigroup:<oiref:cpp#Extends#CPersistanceComponent#CPersistanceStorage:oiref>=358,774,132,614:oigroup>
+<oigroup:<oiref:cpp#Extends#CPOI#CWaypoint:oiref>=924,774,924,694:oigroup>
+<oigroup:<oiref:cpp#Class#CWaypoint:oiref>=785,408,200,286,1:oigroup>
+<oigroup:<oiref:cpp#Class#CRoute:oiref>=630,10,200,318,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CGPSSensor:oiref><Autodependency><oiref:cpp#Class#CWaypoint:oiref>=659,774,877,694:oigroup>
+<oigroup:<oiref:cpp#Class#CNavigationSystem:oiref>=265,408,200,238,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CPOI#m_type:oiref>=877,916,648,1051:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CRoute#m_pWaypointDatabase:oiref>=630,81,385,81:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CRoute:oiref><Autodependency><oiref:cpp#Class#CPOI:oiref>=784,328,1005,400,1005,692,943,774:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CNavigationSystem#m_route:oiref>=391,408,661,328:oigroup>
+<oigroup:<oiref:cpp#Class#CGPSSensor:oiref>=535,774,186,101,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CRoute#m_pPoiDatabase:oiref>=693,328,693,408:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPersistanceComponent:oiref><Autodependency><oiref:cpp#Class#CPoiDatabase:oiref>=400,774,615,550:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPersistanceComponent:oiref><Autodependency><oiref:cpp#Class#t_poi:oiref>=415,971,609,1051:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CRoute#m_pListRoute:oiref>=738,328,918,408:oigroup>
+<oigroup:<oiref:cpp#Class#CPoiDatabase:oiref>=565,408,200,142,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPersistanceComponent:oiref><Autodependency><oiref:cpp#Class#err_enum:oiref>=365,971,365,1051:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CWpDatabase:oiref><Autodependency><oiref:cpp#Class#CPersistanceComponent:oiref>=251,152,30,408,30,620,337,774:oigroup>
+<oigroup:<oiref:cpp#Class#t_poi:oiref>=570,1051,117,155,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPersistanceComponent:oiref><Autodependency><oiref:cpp#Class#CPOI:oiref>=465,905,791,905:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CWpDatabase:oiref><Autodependency><oiref:cpp#Class#CWaypoint:oiref>=351,152,351,258,851,408:oigroup>
+<oigroup:<oiref:cpp#Class#CPOI:oiref>=791,774,172,142,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPoiDatabase:oiref><Autodependency><oiref:cpp#Class#CPersistanceComponent:oiref>=665,550,421,774:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CNavigationSystem#m_PoiDatabase:oiref>=465,465,565,465:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPersistanceComponent:oiref><Autodependency><oiref:cpp#Class#CWpDatabase:oiref>=316,774,10,627,10,409,218,152:oigroup>
+<oigroup:<oiref:cpp#Class#CPersistanceComponent:oiref>=295,774,170,197,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CRoute#m_pListRoute:oiref>=843,388,26,16,0:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPOI:oiref><Autodependency><oiref:cpp#Class#CPersistanceComponent:oiref>=791,895,465,895:oigroup>
+*/
+class __positions {
+}

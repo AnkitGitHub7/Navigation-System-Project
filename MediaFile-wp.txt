@@ -1,0 +1,5 @@
+DARMSTRADE;36.23;21.88
+Frankfurt;52.52;13.4
+Hamburg;35.68;10.69
+Heidelberg;47.45;23.11
+Paderborn;77.77;10.22

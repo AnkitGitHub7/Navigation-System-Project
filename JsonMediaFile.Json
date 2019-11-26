@@ -1,0 +1,66 @@
+{
+  "waypoints":  [
+    {
+      "name": "DARMSTRADE",
+      "latitude": 36.23,
+      "longitude": 21.88
+    },
+    {
+      "name": "Frankfurt",
+      "latitude": 52.52,
+      "longitude": 13.4
+    },
+    {
+      "name": "Hamburg",
+      "latitude": 35.68,
+      "longitude": 10.69
+    },
+    {
+      "name": "Heidelberg",
+      "latitude": 47.45,
+      "longitude": 23.11
+    },
+    {
+      "name": "Paderborn",
+      "latitude": 77.77,
+      "longitude": 10.22
+    }
+  ],
+  "pois":  [
+    {
+      "name": "DARMSTRADE",
+      "latitude": 24.88,
+      "longitude": 22.31,
+      "type": "TRADEFAIR",
+      "description":"Trade fair in Darmstadt"
+    },
+    {
+      "name": "EIFELTOWER",
+      "latitude": 10.45,
+      "longitude": 20.65,
+      "type": "TOURISTIC",
+      "description":"The tallest tower"
+    },
+    {
+      "name": "HDA",
+      "latitude": 11.12,
+      "longitude": 22.32,
+      "type": "UNIVERSITY",
+      "description":"Best Technical University"
+    },
+    {
+      "name": "LREPNB",
+      "latitude": 55.56,
+      "longitude": 65.89,
+      "type": "RESTAURANT",
+      "description":"Italian restaurant"
+    },
+    {
+      "name": "MOTEL",
+      "latitude": 37.11,
+      "longitude": 78.99,
+      "type": "RESTAURANT",
+      "description":"Business german hotel"
+    }
+  ]
+}
